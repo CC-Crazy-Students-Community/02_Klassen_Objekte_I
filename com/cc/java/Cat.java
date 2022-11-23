@@ -13,11 +13,11 @@ public class Cat {
 	}
 
     public String tellYourName() {
-       return this.name;
+       return name;
     }
 
     public String tellYourFurColor() {
-        return this.furColor;
+        return furColor;
     }
 
     public int tellYourAge() {
